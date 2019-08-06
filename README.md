@@ -29,4 +29,4 @@
   f. %SPARK_HOME%\bin to Path variables(editing the System variable Path)
   g. PYSPARK_DRIVER_PYTHON = C:\Users\user\Anaconda3\envs\Scripts\jupyter.exe
   h. PYSPARK_DRIVER_PYTHON_OPTS = notebook
-     ### * g. and h. in-case of using Jupyter Notebook, using Anaconda Navigator.
+### * g. and h. in-case of using Jupyter Notebook, using Anaconda Navigator.
