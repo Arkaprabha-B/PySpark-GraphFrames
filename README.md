@@ -1,7 +1,7 @@
-# PySpark
-Implementation of GraphFrames using PySpark in Eclipse Oxygen IDE
+# PySpark-GraphFrames
+## Implementation of GraphFrames using PySpark in Eclipse Oxygen IDE
 
-1. Installation Steps:
+### 1. Installation Steps:
   a. Apache Spark vesrion: 2.4.0: Download Apache Spark from spark website and extract thrice using "7-Zip"
      Final Folder Structure will be: D:/Spark/spark-2.4.0-bin-hadoop2.7
      
@@ -20,7 +20,7 @@ Implementation of GraphFrames using PySpark in Eclipse Oxygen IDE
        * SPARK_HOME – path of spark folder (final extracted folder)
   f. Add GraphaFrames 0.7.0 jar inside the spark-2.4.0-bin-hadoop2.7 jars
   
-2. Setup System Variables:
+### 2. Setup System Variables:
   a. HADOOP_HOME
   b. JAVA_HOME
   c. SCALA_HOME
@@ -29,4 +29,4 @@ Implementation of GraphFrames using PySpark in Eclipse Oxygen IDE
   f. %SPARK_HOME%\bin to Path variables(editing the System variable Path)
   g. PYSPARK_DRIVER_PYTHON = C:\Users\user\Anaconda3\envs\Scripts\jupyter.exe
   h. PYSPARK_DRIVER_PYTHON_OPTS = notebook
-      * g. and h. in-case of using Jupyter Notebook, using Anaconda Navigator.
+     ### * g. and h. in-case of using Jupyter Notebook, using Anaconda Navigator.
